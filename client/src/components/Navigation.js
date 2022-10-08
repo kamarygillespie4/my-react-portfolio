@@ -12,16 +12,16 @@ function Navigation() {
         className="justify-content-end"
       >
         <Nav>
-          <Nav.Link href="#deets" eventKey={1}>
+          <Nav.Link href="/" eventKey={1}>
             ABOUT ME
           </Nav.Link>
-          <Nav.Link href="#memes" eventKey={2}>
+          <Nav.Link href="/projects" eventKey={2}>
             MY PROJECTS
           </Nav.Link>
-          <Nav.Link href="#memes" eventKey={3}>
+          <Nav.Link href="/resume" eventKey={3}>
             MY RESUME
           </Nav.Link>
-          <Nav.Link href="#memes" eventKey={4}>
+          <Nav.Link href="/contact" eventKey={4}>
             CONTACT ME
           </Nav.Link>
         </Nav>
