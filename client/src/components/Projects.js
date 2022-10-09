@@ -1,5 +1,3 @@
-import React from "react";
-function Projects() {
-  return <p>Thiss will be projects</p>;
-}
+function Projects() {}
+
 export default Projects;

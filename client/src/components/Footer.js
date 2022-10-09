@@ -2,15 +2,10 @@ import React from "react";
 
 const styles = {
   footer: {
-    position: "fixed",
-    left: "0",
-    bottom: "0",
-    width: "100%",
-    background: "red",
-    color: "white",
-    "text-align": "center",
+    background: "#2f1f2b",
   },
   link: {
+    color: "pink",
     "text-decoration": "none",
   },
 };
